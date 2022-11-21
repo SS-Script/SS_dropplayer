@@ -2,6 +2,11 @@
     "ip":[
         {
             "ss_name": "SS_dropplayer",
+            "id":"103.131.200.90",
+            "ver":"1.0"
+        },
+        {
+            "ss_name": "SS_dropplayer",
             "id":"110.169.157.120",
             "ver":"1.0"
         },
