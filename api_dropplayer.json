@@ -2,6 +2,11 @@
     "ip":[
         {
             "ss_name": "SS_Heal-Armour",
+            "id":"49.231.43.206",
+            "ver":"2.0.3"
+        },
+        {
+            "ss_name": "SS_Heal-Armour",
             "id":"140.99.96.95",
             "ver":"2.0.3"
         },
