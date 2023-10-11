@@ -24,6 +24,11 @@
         
         {
             "ss_name": "SS_dropplayer",
+            "id":"154.212.139.107",
+            "ver":"2.5.0"
+        },
+        {
+            "ss_name": "SS_dropplayer",
             "id":"110.169.157.75",
             "ver":"2.5.0"
         },
